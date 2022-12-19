@@ -6,3 +6,5 @@ merge 2+ pdfs together
 
 
 2.  All other instructions are on the app
+
+NOTE: You might have to run pip install tk to use the script
